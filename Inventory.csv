@@ -1,0 +1,4 @@
+﻿Inventory,,Inventory_ID,Date of Inclusion,Date of sale
+Inventory_ID,Int,75812,Nov 5th 2022,Nov 8th 2022
+Inventory_Location,Int,34257,Nov 1st 2022,Nov 11th 2022
+Inventory_Shipment,Varchar(60),12456,Oct 28th 2022,Nov 1st 2022

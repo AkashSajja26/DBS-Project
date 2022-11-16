@@ -1,0 +1,4 @@
+﻿Product_type,,Product_type,Product_price,Product_weight
+ProductType_name,Varchar(50),Model Kits,51$,235gms
+Product_price,Float,Nendoroids,37$,312gms
+Product_image,Varchar(520),Figmas,65$,287gms

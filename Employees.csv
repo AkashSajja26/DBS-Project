@@ -1,0 +1,5 @@
+﻿Employees,,Employee_name,Employee ID,Phoen No
+First_Name,Varchar(60),"Suzie, Ray",2147,331876xxxx
+Last_Name,Varchar(60),"Cameron, Green",1432,331764xxxx
+Employee_ID,Int,"Williamson, Bate",5876,926765xxxx
+Phone_No,Int,,,

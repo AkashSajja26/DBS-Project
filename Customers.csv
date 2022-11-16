@@ -1,0 +1,6 @@
+﻿Customers,,Customer_name,Customer_ID,Phone No
+Customer_id,Int,"John, Ray",44123,331675xxxx
+Phone_no,Int,"Micheal, Dru",31213,412128xxxx
+Email_ID,Varchar(60),"Steve, Mills",21341,928512xxxx
+First_Name,Varchar(60),,,
+Last_Name,Varchar(60),,,

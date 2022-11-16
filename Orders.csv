@@ -1,0 +1,5 @@
+﻿Orders,,Order_ID,Customer_ID,ProductType,Order_Date
+Order_ID,Int,14532,2134,Figma,Nov 1st 2022
+Customer_ID,Int,445613,3527,Nendoroid,Nov 11th 2022
+ProductType_ID,Int,33112,6427,ModelKit,Oct 28th 2022
+Order_Time,<time>,,,,
