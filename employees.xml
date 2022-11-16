@@ -1,0 +1,20 @@
+<employee gender="female">
+    <firstname>Suzie</firstname>
+    <lastname>Ray</lastname>
+    <employee_id>2147</employee_id>
+    <phone_n0>331876xxxx</phone_n0>
+</employee>
+
+<employee gender="male">
+    <firstname>Cameron</firstname>
+    <lastname>Green</lastname>
+    <employee_id>1432</employee_id>
+    <phone_n0>331764xxxx</phone_n0>
+</employee>
+
+<employee gender="male">
+    <firstname>Williamson</firstname>
+    <lastname>Bate</lastname>
+    <employee_id>5876</employee_id>
+    <phone_n0>926765xxxx</phone_n0>
+</employee>

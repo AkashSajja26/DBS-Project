@@ -1,0 +1,17 @@
+<order>
+    <order_id>14532</order_id>
+    <customer_id>2134</customer_id>
+    <product_type>Figma</product_type>
+</order>
+
+<order>
+    <order_id>445613</order_id>
+    <customer_id>3527</customer_id>
+    <product_type>Nendoroid</product_type>
+</order>
+
+<order>
+    <order_id>33112</order_id>
+    <customer_id>6427</customer_id>
+    <product_type>ModelKit</product_type>
+</order>

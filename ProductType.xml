@@ -1,0 +1,17 @@
+<product_type>
+    <producttype_name>ModelKits</producttype_name>
+    <product_price>51$</product_price>
+    <product_weight>235</product_weight>
+</product_type>
+
+<product_type>
+    <producttype_name>Nendoroids</producttype_name>
+    <product_price>37$</product_price>
+    <product_weight>312</product_weight>
+</product_type>
+
+<product_type>
+    <producttype_name>Figmas</producttype_name>
+    <product_price>65$</product_price>
+    <product_weight>287</product_weight>
+</product_type>

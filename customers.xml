@@ -1,0 +1,20 @@
+<customer gender="male">
+    <firstname>John</firstname>
+    <lastname>Ray</lastname>
+    <customer_id>44123</customer_id>
+    <phone_n0>331675xxxx</phone_n0>
+</customer>
+
+<customer gender="male">
+    <firstname>Micheal</firstname>
+    <lastname>Dru</lastname>
+    <customer_id>31213</customer_id>
+    <phone_n0>412128xxxx</phone_n0>
+</customer>
+
+<customer gender="male">
+    <firstname>Steve</firstname>
+    <lastname>Mill</lastname>
+    <customer_id>21341</customer_id>
+    <phone_n0>928512xxxx</phone_n0>
+</customer>
